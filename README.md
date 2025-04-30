@@ -26,3 +26,8 @@ I created a repository called git-training and added a README.md file to initial
 - `git merge <branch-name>` – Merge a branch into the current one
 - `git push origin main` – Push changes to the main branch
 - `git push -u origin <branch-name>` – Push a new branch to remote and set upstream
+
+
+## Git Commands I Learned i've learn in Acitvity 3 
+
+- `For this GitHub collaboration task, I began by watching a video that explained how collaboration works using issues and pull requests. I then opened an issue in the main repository to describe a bug or feature request. After that, I created a new GitHub account to fork the main repository and made the necessary changes in the forked copy. Initially, I tried to push the changes directly to the main repository but encountered a permission error, as the new account had not been added as a collaborator. With the slight help of a developer who guided me on how to properly submit a pull request, I was able to push the changes to my forked repository and open a PR to the main repo. Since I had made little progress on my own during training, this guidance helped me better understand the process. Overall, this experience showed me how GitHub issues and pull requests help streamline collaboration by allowing contributors to communicate, review, and integrate changes in a structured and permission-based workflow.
